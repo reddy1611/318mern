@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reddy1611/318mern.git/static/css/main.18ad1a2c.css",
+    "main.js": "/reddy1611/318mern.git/static/js/main.75da9ff7.js",
+    "static/js/453.1573d7a3.chunk.js": "/reddy1611/318mern.git/static/js/453.1573d7a3.chunk.js",
+    "index.html": "/reddy1611/318mern.git/index.html",
+    "main.18ad1a2c.css.map": "/reddy1611/318mern.git/static/css/main.18ad1a2c.css.map",
+    "main.75da9ff7.js.map": "/reddy1611/318mern.git/static/js/main.75da9ff7.js.map",
+    "453.1573d7a3.chunk.js.map": "/reddy1611/318mern.git/static/js/453.1573d7a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ad1a2c.css",
+    "static/js/main.75da9ff7.js"
+  ]
+}
